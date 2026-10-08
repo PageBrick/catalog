@@ -7,8 +7,8 @@
         ],
         "requires_php": "8.2",
         "url": "https://github.com/PageBrick/pagebrick/releases/download/v1.0.0/pagebrick-1.0.0.zip",
-        "sha256": "0d15d56d430d0f8850a944cf1bd6b66756b45d9eadc57496be7bb72930419bf2",
-        "signature": "X5AVDtnKwqfphZZ735w6THNqmwDpMFOQWur2JOQIchT02n+Spt2YbbsOA4IUS3hhxR5npFlS502vGp/RggTECA=="
+        "sha256": "83f76e03fa9e3f25e05b95f625857adb9591e94c58d836e8aa1780d41855f3c3",
+        "signature": "hJXY9yWFJfzWbMQuWi34MOvP7kiwcwExzwoBh7dy1XbeeMBMcNKnoolA3sClTnF80E2hT1YkXivlgI9IfprODw=="
     },
     "plugins": [],
     "themes": []
