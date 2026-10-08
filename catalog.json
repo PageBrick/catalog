@@ -1,0 +1,15 @@
+{
+    "format": 1,
+    "core": {
+        "version": "1.0.0",
+        "api": [
+            1
+        ],
+        "requires_php": "8.2",
+        "url": "https://github.com/PageBrick/pagebrick/releases/download/v1.0.0/pagebrick-1.0.0.zip",
+        "sha256": "0334cc9360a06fd32ac8bbcaf7c4bdf5bf800cb1f16a65bf15378bba87059887",
+        "signature": "0aeRxn+ldwzTy9OH5ARlpV12HukeEmRilIqo41EFVuppiSfShNWYdevlmWp3M2RYAb4KBWu1JOrjS1UOuro+Cw=="
+    },
+    "plugins": [],
+    "themes": []
+}
