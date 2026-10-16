@@ -10,6 +10,18 @@
         "sha256": "cc79be98d6a8bd6b8991f8b7c2b5d07f5b684a779d1b69e2de876782ddc78d16",
         "signature": "5WT1gKE6xQotSr1WLKaSbjMelUJApjRTAtRZYA6FhN/+AXldryjzjbQEL4u9x9JP9CFMAWuOdQaIuD8nAuuUCQ=="
     },
-    "plugins": [],
+    "plugins": [
+        {
+            "name": "Blog",
+            "description": "Textos com data, organizados em categorias e subcategorias. O nome e o endereço são configuráveis: Blog em /blog, Notícias em /noticias, Artigos em /artigos…",
+            "author": "PageBrick",
+            "slug": "blog",
+            "version": "1.1.0",
+            "api": 1,
+            "url": "https://github.com/PageBrick/pagebrick/releases/download/blog-v1.1.0/blog-1.1.0.zip",
+            "sha256": "c5d407a443e46598c1b381b7ad9856b73cc789fac0a4517b7c9f43c748d67d60",
+            "signature": "vd553+Vu/zCW/fB0cpP0HQQU2nLoowBnD8FWsTxYSnPxnzRr0nQLhBgEq71cTFKGikxLh9k04l4E7q5EtmLABw=="
+        }
+    ],
     "themes": []
 }
