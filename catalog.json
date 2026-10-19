@@ -1,14 +1,14 @@
 {
     "format": 1,
     "core": {
-        "version": "1.9.0",
+        "version": "1.10.0",
         "api": [
             1
         ],
         "requires_php": "8.2",
-        "url": "https://github.com/PageBrick/pagebrick/releases/download/v1.9.0/pagebrick-1.9.0.zip",
-        "sha256": "695dc12f92d6112f2681fe50e551932184bc341508ad24eeadccdbb1a551edb0",
-        "signature": "22tCQIZw0GQIHsPfedbl6xhsDMcV8XXTimd+L+Zf2ZTroBdKCh6Az/OqOHImCBA7ARm/X8aNCiUJFkDkeCeQCA=="
+        "url": "https://github.com/PageBrick/pagebrick/releases/download/v1.10.0/pagebrick-1.10.0.zip",
+        "sha256": "a2e890fa6ae2adce6f923e2d4d0d1f0b869430afc7494c72e08e622d7a68fbac",
+        "signature": "2yjF5r7eS22eZHcVbwvTcgYRnuk4wFd0G9Nd5reWUfn4Id9hDwfzSultPew1uA6zxzI6yr9suknXSSWnNzorDQ=="
     },
     "plugins": [
         {
@@ -27,11 +27,11 @@
             "description": "Formulário na página de contato. As mensagens chegam por e-mail e ficam guardadas no painel, em Mensagens. Protegido contra spam sem captcha.",
             "author": "PageBrick",
             "slug": "contact-form",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "api": 1,
-            "url": "https://github.com/PageBrick/pagebrick/releases/download/contact-form-v1.2.0/contact-form-1.2.0.zip",
-            "sha256": "8012bc2c2411afcfd9574645d7b60170574dcd12ca3a3e47dbf6b24e3cc3e1fe",
-            "signature": "YhkTjmr6Itd4HMAVPmlHrK3abrKXMlXODPPdeNg4F3nqB1PqKj5f/FPIQipWh5SxVhf3VWkfU+fzW6+5z2FvCA=="
+            "url": "https://github.com/PageBrick/pagebrick/releases/download/contact-form-v1.3.0/contact-form-1.3.0.zip",
+            "sha256": "ce8719d32e324ccdeedce44cab60ff171b92590bf9d7dec74e703d7dbf402893",
+            "signature": "DIc7f1HXHD4Sj0XVCSBlEKpsuLQDEVb/AeV9Ow7z65HEdLCXm7iED2h5wXlA1lo8NDnOttNtwPk9wibljSXZAA=="
         }
     ],
     "themes": []
