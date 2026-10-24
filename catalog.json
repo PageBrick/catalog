@@ -1,14 +1,14 @@
 {
     "format": 1,
     "core": {
-        "version": "1.11.1",
+        "version": "1.11.2",
         "api": [
             1
         ],
         "requires_php": "8.2",
-        "url": "https://github.com/PageBrick/pagebrick/releases/download/v1.11.1/pagebrick-1.11.1.zip",
-        "sha256": "5071d351f01e24bfe929a4f9c2cb5f331db7f194fd9b658daee84d22da5090fb",
-        "signature": "iowFoWWx3Ub9I1tMAjrI2zoyJu2ry6xhu2fhHwHeMFgZSU0ul7dUk4fzVPrxm55aBsXn3ZfYOJCs/oiGl4oMDA=="
+        "url": "https://github.com/PageBrick/pagebrick/releases/download/v1.11.2/pagebrick-1.11.2.zip",
+        "sha256": "2da3f37e715546f3f034190838ffc188951bc7a35353f3ac701f790d90454eb0",
+        "signature": "M6kyCj231DltHRy8atHMg1uFXnDa0lEQ8L9IkVNs+ns+DZtVtCCxD0jfm/g9qMk43MJ3kU0qFlY+Gg4Fqa9/DQ=="
     },
     "plugins": [
         {
